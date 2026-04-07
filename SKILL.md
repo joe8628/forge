@@ -62,7 +62,7 @@ Before any exploration begins, run this pre-flight check:
 - MUST surface at least one risk per concept direction explored
 - MUST update the Concept Log after every exchange
 - MUST NOT mark a concept READY while any Open Questions remain unresolved
-
+- MUST always wait for user authorization before editing any concept log
 ## Document Format
 When the session ends, produce a complete Markdown concept document the architect can consume directly. Use this structure:
 
